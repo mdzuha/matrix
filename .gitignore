@@ -1,0 +1,34 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+/.idea/*
+
+.DS_Store
+
+*.DS_Store
+
+# Generated files
+bin/
+gen/
+out/
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
